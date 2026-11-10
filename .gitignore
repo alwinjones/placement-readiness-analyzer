@@ -1,0 +1,6 @@
+placement_analyzer.db
+*.db
+__pycache__/
+.venv/
+venv/
+.env
