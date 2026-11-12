@@ -1,6 +1,4 @@
-placement_analyzer.db
-*.db
-__pycache__/
-.venv/
-venv/
-.env
+node_modules/
+.next/
+.env*
+!.env.example
